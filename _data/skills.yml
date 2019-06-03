@@ -2,18 +2,28 @@
   keywords:
       - Java
       - Php
-      - NodeJs
       - Lua
+      - Drds,Rds
+      - Oracle
+      - MongoDB
+      - redis
+      - kafka
+      - ELK
 
 - name: System Architect Keywords
   keywords:
       - Mesosphere
-      - Reverse Engineering
 
 - name: framework Keywords
   keywords:
       - Springboot
       - Spring
       - thinkjs
-      - vue & mpvue
+      - vue
       - CI
+      - Boostrap
+      
+- name: Web Developer Keywords
+  keywords:
+      - Html/css/js
+      - mpvue/Nodejs
