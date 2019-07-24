@@ -9,12 +9,13 @@
       - redis
       - kafka
       - ELK
+      - Oauth2.0
 
 - name: System Architect Keywords
   keywords:
       - Mesosphere
 
-- name: framework Keywords
+- name: Framework Keywords
   keywords:
       - Springboot
       - Spring
